@@ -1,15 +1,15 @@
-id: opecha:P000514
+id: P000514
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG10580
   title: ཆོས་བདག་བཀའ་འབུམ།
-  volume:
+  author: ''
+  volumes:
     a49113bf96944a26a80958c73c466203:
       image_group_id: I1KG18147
       title: Volume 1 of bslab pa kun las btus pa'i tshig le'ur byas pa/
       volume_number: 1
       total_pages: 478
-  author: ''
 ebook_metadata:
   title: ཆོས་བདག་བཀའ་འབུམ།
   author: ''
