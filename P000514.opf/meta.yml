@@ -5,11 +5,18 @@ source_metadata:
   title: ཆོས་བདག་བཀའ་འབུམ།
   author: ''
   volumes:
-    a49113bf96944a26a80958c73c466203:
-      image_group_id: I1KG18147
-      title: Volume 1 of bslab pa kun las btus pa'i tshig le'ur byas pa/
+    31163440eeb04d56a1dc99f072f79fb8:
+      image_group_id: I1KG10661
+      title: ''
       volume_number: 1
-      total_pages: 478
+      total_pages: 282
+      base_file: v001.txt
+    b7e62307961a4dccb0972b805670aab1:
+      image_group_id: I1KG10662
+      title: ''
+      volume_number: 2
+      total_pages: 314
+      base_file: v002.txt
 ebook_metadata:
   title: ཆོས་བདག་བཀའ་འབུམ།
   author: ''
